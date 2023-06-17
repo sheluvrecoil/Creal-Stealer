@@ -91,13 +91,13 @@ while True:
                 Write.Print("\nYou have entered invalid. Please try again.", Colors.red_to_purple)
 
 
-    elif choice == "2":
+    elif choice == "3":
         Write.Print("\nExiting the program...", Colors.red_to_yellow)
         break
 
-  elif choice == "3":
-Write.Print("\nmalware#0738", Colors.red_to_yellow)
-break
+ elif choice == "2":
+        Write.Print("\nAdd me on discord: malware#0738", Colors.red_to_yellow)
+
 
     else:
         Write.Print("\nYou have entered invalid. Please try again.", Colors.red_to_purple)
