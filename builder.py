@@ -95,8 +95,9 @@ while True:
         Write.Print("\nExiting the program...", Colors.red_to_yellow)
         break
 
+  elif choice == "3":
+print("malware#0738")
+break
+
     else:
         Write.Print("\nYou have entered invalid. Please try again.", Colors.red_to_purple)
-
-if choice == "3":
-print("malware#0738")
