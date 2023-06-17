@@ -21,7 +21,7 @@ intro = """
 
 """
 
-Anime.Fade(Center.Center(intro), Colors.black_to_red, Colorate.Vertical, interval=0.035, enter=True)
+Anime.Fade(Center.Center(intro), Colors.black_to_red, Colorate.Vertical, interval=0.080, enter=True)
 
 
 print(f"""{Fore.LIGHTRED_EX}
