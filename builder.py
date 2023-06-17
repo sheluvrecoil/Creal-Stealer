@@ -45,8 +45,7 @@ while True:
     
     Write.Print("\nWhich option do you want to choose: ", Colors.red_to_purple)
     Write.Print("\n1. Build Exe", Colors.red_to_yellow)
-    Write.Print("\n2. Build FUD Exe (Virus programs undetected)", Colors.red_to_purple)
-    Write.Print("\n3. Close", Colors.red_to_purple)
+    Write.Print("\n2. Close", Colors.red_to_purple)
     Write.Print("\nMake your selection: ", Colors.red_to_purple, end="")
     choice = input()
 
@@ -54,7 +53,7 @@ while True:
         os.system("cls || clear")
         webhook = input(Fore.CYAN + "\nEnter Your Webhook: " + Style.RESET_ALL)
 
-        filename = "Creal.py"
+        filename = "prixon.py"
         filepath = os.path.join(os.getcwd(), filename)
         with open(filepath, "r", encoding="utf-8") as f:
             content = f.read()
@@ -90,10 +89,8 @@ while True:
             else:
                 Write.Print("\nYou have entered invalid. Please try again.", Colors.red_to_purple)
 
-    elif choice == "2":
-        Write.Print("\nWe can share the fud for free but not now. if you want fud Telegram: https://t.me/CrealStealer", Colors.red_to_yellow)
 
-    elif choice == "3":
+    elif choice == "2":
         Write.Print("\nExiting the program...", Colors.red_to_yellow)
         break
 
