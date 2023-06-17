@@ -96,7 +96,7 @@ while True:
         break
 
   if choice == "3":
-Write.Print("\nmalware#0738", colors.red_to_yellow)
+Write.Print("\nmalware#0738", Colors.red_to_yellow)
 
     else:
         Write.Print("\nYou have entered invalid. Please try again.", Colors.red_to_purple)
