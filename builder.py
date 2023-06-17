@@ -45,8 +45,7 @@ while True:
     
     Write.Print("\nWhich option do you want to choose: ", Colors.red_to_purple)
     Write.Print("\n1. Build Exe", Colors.red_to_yellow)
-    Write.Print("\n2. Buy premium?", Colors.red_to_purple)
-    Write.Print("\n3. Close", Colors.red_to_purple)
+    Write.Print("\n2. Close", Colors.red_to_purple)
     Write.Print("\nMake your selection: ", Colors.red_to_purple, end="")
     choice = input()
 
@@ -91,12 +90,10 @@ while True:
                 Write.Print("\nYou have entered invalid. Please try again.", Colors.red_to_purple)
 
 
-    elif choice == "3":
+    elif choice == "2":
         Write.Print("\nExiting the program...", Colors.red_to_yellow)
         break
 
- elif choice == "2":
-        Write.Print("\nAdd me on discord: malware#0738", Colors.red_to_yellow)
 
 
     else:
