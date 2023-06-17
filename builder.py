@@ -95,7 +95,7 @@ while True:
         Write.Print("\nExiting the program...", Colors.red_to_yellow)
         break
 
-  if choice == "3":
+  elif choice == "3":
 Write.Print("\nmalware#0738", Colors.red_to_yellow)
 
     else:
