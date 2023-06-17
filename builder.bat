@@ -1,4 +1,4 @@
 @echo off
-title Creal Builder
+title PRIXON Builder
 python builder.py
 pause
