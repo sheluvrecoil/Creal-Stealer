@@ -45,8 +45,8 @@ while True:
     
     Write.Print("\nWhich option do you want to choose: ", Colors.red_to_purple)
     Write.Print("\n1. Build Exe", Colors.red_to_yellow)
-    Write.Print("\n3. Close", Colors.red_to_purple)
     Write.Print("\n2. Buy premium?", Colors.red_to_purple)
+    Write.Print("\n3. Close", Colors.red_to_purple)
     Write.Print("\nMake your selection: ", Colors.red_to_purple, end="")
     choice = input()
 
